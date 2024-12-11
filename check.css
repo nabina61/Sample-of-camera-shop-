@@ -1,0 +1,26 @@
+.error-message {
+    color: red;
+    font-size: 0.9em;
+}
+
+form {
+    margin-top: 20px;
+}
+
+form label {
+    display: block;
+    margin-top: 10px;
+}
+
+form input, form fieldset {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+form button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
